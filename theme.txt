@@ -40,4 +40,3 @@ terminal-border: "0"
     align = "center"
     text = "Hesitation is defeat: %ds"
 }
-
